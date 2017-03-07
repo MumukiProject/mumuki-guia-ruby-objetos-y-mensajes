@@ -1,0 +1,2 @@
+class Pepita
+end
