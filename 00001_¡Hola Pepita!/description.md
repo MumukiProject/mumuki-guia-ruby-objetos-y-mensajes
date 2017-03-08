@@ -1,4 +1,4 @@
-Para empezar en este mundo, conozcamos a `pepita`, una [golondrina](http://es.wikipedia.org/wiki/Hirundo_rustica).
+Para empezar en este mundo, conozcamos a `ppita`, una [golondrina](http://es.wikipedia.org/wiki/Hirundo_rustica).
 
 <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/1024px-Landsvale.jpg" />
 
