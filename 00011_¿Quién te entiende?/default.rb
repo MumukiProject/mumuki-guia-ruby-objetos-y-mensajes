@@ -1,14 +1,14 @@
-interfaz_pepita = [
-    "energia", 
-    "cantar", 
-    "comerLombriz", 
-    "volarEnCirculos"
-]
+interfaz_pepita = %w(
+  energia
+  cantar
+  comer_lombriz
+  volar_en_circulos
+)
   
-interfaz_anastasia = [
+interfaz_anastasia = %w(
   #...completar acá...
-]
+)
   
-interfaz_mercedes = [
+interfaz_mercedes = %w(
   #...completar acá...
-}
+)
