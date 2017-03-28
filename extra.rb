@@ -43,6 +43,7 @@ module Pepita
   
   def self.comer_lombriz
     @energia += 20
+    nil
   end
   
   def self.comer_alpiste(una_energia)
