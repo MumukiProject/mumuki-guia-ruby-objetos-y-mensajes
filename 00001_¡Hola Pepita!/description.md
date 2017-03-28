@@ -4,5 +4,4 @@ Para empezar en este mundo, conozcamos a `pepita`, una [golondrina](http://es.wi
 
 `Pepita`, además de ser un ave que come y vuela (como todo pájaro), es un objeto, que vive en _el mundo de los objetos_, al cual conocemos como **ambiente**
 
-> ¿No nos creés que `Pepita` está viva y es un objeto? ¡Probalo!
-> Escribí en la consola `Pepita` y fijate qué sucede.
+> ¿No nos creés que `Pepita` está viva y es un objeto? Escribí en la consola `Pepita` y fijate qué sucede. Cuando te convenzas, pasá al siguiente ejercicio.
