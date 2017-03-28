@@ -12,7 +12,7 @@ end
 
 module Mercedes
   def self.cantar
-    "...una voz antigua de viento y de sal..."
+    "♪ una voz antigua de viento y de sal ♫"
   end
 end
 

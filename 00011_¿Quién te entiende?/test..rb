@@ -16,6 +16,6 @@ describe 'Interfaz de' do
   it 'Norita' do
     #...content...#
   
-    expect(interfaz_pepita).to eq ['cantar', 'comer_lombriz', 'volar_en_circulos']
+    expect(interfaz_norita).to eq ['cantar', 'comer_lombriz', 'volar_en_circulos']
   end  
 end

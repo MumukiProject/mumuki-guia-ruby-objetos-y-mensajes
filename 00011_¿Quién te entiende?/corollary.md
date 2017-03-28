@@ -4,9 +4,11 @@
 Pepita.cantar
 => "pri pri pri"
 
-
-Anastasia.cantar
+Norita.cantar
 => "priiiip priiiip"
+
+Mercedes.cantar
+=> "...una voz antigua de viento y de sal..."
 ```
 
 Esto significa que dos objetos pueden entender un mismo mensaje, pero pueden **comportarse** de formas diferentes. Ya hablaremos más de esto en próximas lecciones.
