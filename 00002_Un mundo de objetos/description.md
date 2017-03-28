@@ -8,6 +8,6 @@ Como ya te vendrás dando cuenta, en este **paradigma** bajo el cual estamos tra
 > 
 > * `ム Pepita`
 > * `ム Norita`
-> * `ム 1`
+> * `ム 87`
 > * `ム "hola mundo"`
 > * `ム true`
