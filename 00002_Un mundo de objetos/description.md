@@ -6,8 +6,10 @@ Como ya te vendrás dando cuenta, en este **paradigma** bajo el cual estamos tra
 
 > ¡Probalo! Hacé las siguientes consultas en la consola: 
 > 
-> * `ム Pepita`
-> * `ム Norita`
-> * `ム 87`
-> * `ム "hola mundo"`
-> * `ム true`
+> ```ruby
+ム Pepita
+ム Norita
+ム 87
+ム 'hola mundo'
+ム true
+```
