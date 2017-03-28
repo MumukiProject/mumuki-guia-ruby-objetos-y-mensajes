@@ -9,9 +9,11 @@ undefined method `bailar' for Pepita:Module (NoMethodError)
 > Descubramos qué otras cosas sabe hacer `Pepita`. Probá enviarle los siguientes mensajes y fijate cuáles entiende y cuales no ¡y anotalos! :memo:
 Este conocimiento nos servirá en breve. 
 > 
-> * `ム Pepita.pasear`
-> * `ム Pepita.energia`
-> * `ム Pepita.comer_lombriz`
-> * `ム Pepita.volar_en_circulos`
-> * `ム Pepita.se_la_banca?`
+> ```ruby
+ム Pepita.pasear
+ム Pepita.energia
+ム Pepita.comer_lombriz
+ム Pepita.volar_en_circulos
+ム Pepita.se_la_banca?
+```
 
