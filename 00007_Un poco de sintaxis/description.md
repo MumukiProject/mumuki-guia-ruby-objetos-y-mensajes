@@ -1,14 +1,17 @@
 ¡Pausa! Analicemos la sintaxis del envío de mensajes: 
 
-1. `Pepita.volar` es un envío de mensaje, también llamado **colaboración**;
-2. `volar` es el **mensaje**;
-3. `volar` es el nombre del mensaje (en este caso es igual, pero ya veremos otros en los que no);
+1. `Pepita.energia` es un envío de mensaje, también llamado **colaboración**;
+2. `energia` es el **mensaje**;
+3. `energia` es el nombre del mensaje (en este caso es igual, pero ya veremos otros en los que no);
 4. `Pepita` es el objeto receptor del mensaje.
 
-:warning: Es importante respetar la sintaxis del envío de mensajes. Por ejemplo, las siguientes NO son colaboraciones validas, porque no funcionan o no hacen lo que deben: 
+:warning: 
+Es importante respetar la sintaxis del envío de mensajes. Por ejemplo, las siguientes NO son colaboraciones validas, porque no funcionan o no hacen lo que deben: 
 
-* `ム volar`
-* `ム Pepita volar()`
-* `ム Pepita.volar`
+```ruby
+ム energia
+ム Pepita energia
+ム Pepita..energia
+```
 
-> ¿Eh, no nos creés?  :unamused: ¡Probalo!
+> ¿Eh, no nos creés?  :unamused: ¡Probalas!
