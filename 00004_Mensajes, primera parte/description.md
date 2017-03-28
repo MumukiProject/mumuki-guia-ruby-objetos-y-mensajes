@@ -4,6 +4,6 @@ Pero esto no parece ser muy útil. ¿Qué cosas sabrá hacer una golondrina como
 
 > Averigualo: enviale un mensaje `cantar` y fijate qué pasa...
 > 
-> ```
+> ```ruby
 > ム Pepita.cantar
 > ```
