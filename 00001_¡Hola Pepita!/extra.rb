@@ -1,2 +1,2 @@
-class Pepita
+module Pepita
 end
