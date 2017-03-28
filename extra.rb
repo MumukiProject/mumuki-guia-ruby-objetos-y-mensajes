@@ -16,9 +16,9 @@ module Mercedes
   end
 end
 
-module Anastasia
+module Norita
   def self.cantar
-    "priiiip priiiip"
+    'priiiip priiiip'
   end
   
   def self.volar_en_circulos; end
