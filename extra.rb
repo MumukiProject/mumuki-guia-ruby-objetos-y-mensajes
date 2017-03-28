@@ -30,7 +30,10 @@ module Pepita
   @energia = 100
   @ciudad = Rosario
   
-  def energia=(una_energia) { @energia = una_energia  }
+  def energia=(una_energia) 
+    @energia = una_energia
+  end
+  
   def energia; energia end
   def ciudad; ciudad end
   
