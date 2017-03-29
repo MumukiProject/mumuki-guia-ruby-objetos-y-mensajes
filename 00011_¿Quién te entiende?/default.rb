@@ -5,7 +5,7 @@ interfaz_pepita = %w(
   volar_en_circulos
 )
   
-interfaz_anastasia = %w(
+interfaz_norita = %w(
   #...completar acá...
 )
   
