@@ -3,4 +3,4 @@
 * `comer_lombriz` hace que la energia de `Pepita` aumente en 20 unidades;
 * `volar_en_circulos` hace que la energia de `Pepita` disminuya en 10 unidades.
 
-> Veamos si se entiende: escribí un primer programa que consista en hacer que `Pepita` coma y vuele hasta quedarse con 150 unidades de energía. 
+> Veamos si se entiende: escribí un primer programa que consista en hacer que `Pepita` coma y vuele hasta quedarse con 150 unidades de energía. **Acordate que `Pepita` arranca con la energía en 100.**
