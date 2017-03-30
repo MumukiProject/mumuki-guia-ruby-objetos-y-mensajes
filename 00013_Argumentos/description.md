@@ -9,7 +9,7 @@ Pepita.comer_alpiste(40)
 Allí, `40` es un _argumento_ del mensaje, representa en este caso que vamos a alimentar a pepita con 40 gramos de alpiste. Un mensaje podría tomar más de un argumento, separados por coma.
 
 > Probá enviar los siguientes mensajes:
->```ruby
+> ```ruby
 ム Pepita.volar_hacia(Rosario)
 ム Pepita.comer_alpiste(39)
 ム Pepita.comer_alpiste(6, Norita)
