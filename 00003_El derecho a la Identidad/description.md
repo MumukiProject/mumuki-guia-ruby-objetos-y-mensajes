@@ -7,7 +7,8 @@ En Ruby, podemos comparar por identidad a dos objetos utilizando el operador `==
 ```
 
 > ¡Intentalo por tu propia cuenta! Ejecutá las siguientes pruebas en la consola: 
-> ```ruby
+> 
+```ruby
 ム Pepita == Norita
 ム Norita == Pepita
 ム Norita == Norita
