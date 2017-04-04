@@ -1,13 +1,19 @@
 module BuenosAires 
-  def self.kilometro; 0 end
+  def self.kilometro
+    0 
+  end
 end
 
-module SantaFe
-  def self.kilometro; 315 end
+module Iruya
+  def self.kilometro
+    1710
+  end
 end
 
-module Rosario
-  def self.kilometro; 514 end
+module Obera
+  def self.kilometro
+    1040
+  end
 end
 
 module Mercedes
@@ -21,21 +27,28 @@ module Norita
     'priiiip priiiip'
   end
   
-  def self.volar_en_circulos; end
+  def self.volar_en_circulos
+  end
   
-  def self.comer_lombriz; end
+  def self.comer_lombriz
+  end
 end
 
 module Pepita
   @energia = 100
-  @ciudad = Rosario
+  @ciudad = Iruya
   
   def self.energia=(una_energia) 
     @energia = una_energia
   end
   
-  def self.energia; @energia end
-  def self.ciudad; @ciudad end
+  def self.energia
+    @energia 
+  end
+  
+  def self.ciudad
+    @ciudad 
+  end
   
   def self.cantar
     'pri pri pri'
