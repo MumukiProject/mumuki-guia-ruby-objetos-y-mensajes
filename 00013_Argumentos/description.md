@@ -1,6 +1,6 @@
 Para hacer las cosas más interesantes, vamos a necesitar mensajes más complejos. :no_mouth:
 
-Por ejemplo, si queremos que `Pepita` coma una cierta cantidad de alpiste, que nos gustaría especificar a nosotros. Esto podemos escrbirlo de la siguiente forma: 
+Por ejemplo, si queremos que `Pepita` coma una cierta cantidad de alpiste que no sea siempre la misma, necesitamos de alguna manera indicar cuál es esa cantidad. Esto podemos escrbirlo de la siguiente forma: 
 
 ```ruby
 Pepita.comer_alpiste(40)
