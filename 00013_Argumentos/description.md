@@ -11,7 +11,7 @@ Allí, `40` es un _argumento_ del mensaje, representa en este caso que vamos a a
 > Probá enviar los siguientes mensajes:
 > 
 ```ruby
-ム Pepita.volar_hacia(Rosario)
+ム Pepita.volar_hacia(Iruya)
 ム Pepita.comer_alpiste(39)
 ム Pepita.comer_alpiste(6, Norita)
 ```
