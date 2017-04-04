@@ -36,7 +36,7 @@ end
 
 module Pepita
   @energia = 100
-  @ciudad = Iruya
+  @ciudad = Obera
   
   def self.energia=(una_energia) 
     @energia = una_energia
