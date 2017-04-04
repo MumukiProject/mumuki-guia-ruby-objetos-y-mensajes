@@ -6,10 +6,10 @@ describe 'Pepita debe' do
   end
   
   it 'haber perdido energía' do 
-    expect(Pepita.energia).to_eq 4516  
+    expect(Pepita.energia).to eq 4516  
   end
   
   it 'estar en Oberá' do 
-    expect(Pepita.ciudad).to_eq Obera
+    expect(Pepita.ciudad).to eq Obera
   end
 end
