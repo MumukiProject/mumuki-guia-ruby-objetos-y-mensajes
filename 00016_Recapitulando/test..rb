@@ -1,6 +1,8 @@
-#...extra...#
-
 describe 'Pepita' do
+  before(:each) do
+    #...extra...#
+  end
+  
   it 'vuela a Iruya' do
     #...content...#
     expect(Pepita.ciudad).to eq Iruya
