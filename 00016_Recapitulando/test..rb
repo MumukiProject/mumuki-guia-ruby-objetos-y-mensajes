@@ -1,4 +1,3 @@
-#...extra...#
 describe 'Pepita' do
   before(:each) do
     Pepita.volar_hacia!(Obera)
