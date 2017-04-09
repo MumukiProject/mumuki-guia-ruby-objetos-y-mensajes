@@ -1,6 +1,7 @@
+#...extra...#
 describe 'Pepita' do
   before(:each) do
-    #...extra...#
+    Pepita.volar_hacia!(Obera)
   end
   
   it 'vuela a Iruya' do
