@@ -1,7 +1,7 @@
 Como ves, si enviás un mensaje con una cantidad incorrecta de argumentos...
 
 ```ruby
-ム Pepita.comer_alpiste(6, Norita)
+ム Pepita.comer_alpiste!(6, Norita)
 # wrong number of arguments (2 for 1) (ArgumentError)
 ```
 

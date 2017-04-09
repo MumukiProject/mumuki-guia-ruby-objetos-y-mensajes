@@ -1,8 +1,8 @@
 interfaz_pepita = %w(
   energia
-  cantar
-  comer_lombriz
-  volar_en_circulos
+  cantar!
+  comer_lombriz!
+  volar_en_circulos!
 )
   
 interfaz_norita = %w(

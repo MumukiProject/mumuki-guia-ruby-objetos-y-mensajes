@@ -1,9 +1,9 @@
 Como vimos, un objeto puede entender múltiples mensajes; a este conjunto de mensajes que podemos enviarle lo denominamos **interfaz**. Por ejemplo, la interfaz de `Pepita` es: 
 
 * `energia`: nos dice cuanta energía tiene (un número);
-* `cantar`: hace que cante;
-* `comer_lombriz`: hace que coma una lombriz;
-* `volar_en_circulos`: hace que vuele en circulos.
+* `cantar!`: hace que cante;
+* `comer_lombriz!`: hace que coma una lombriz;
+* `volar_en_circulos!`: hace que vuele en circulos.
 
 <!--
 interface Pepita {
