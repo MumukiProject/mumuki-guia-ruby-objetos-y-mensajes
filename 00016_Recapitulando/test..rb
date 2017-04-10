@@ -11,7 +11,7 @@ describe 'Pepita' do
     expect(Pepita.ciudad).to eq Iruya
     "
     
-    puts x
+    raise x
   end
 
   it 'vuela a Iruya' do
