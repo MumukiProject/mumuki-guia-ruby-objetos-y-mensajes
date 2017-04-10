@@ -1,26 +1,9 @@
 describe 'Pepita' do
 
-
-  it 'fake' do
-    
-    x = "
-    Pepita.volar_hacia! Obera
-
-    /*...content...*/
-    
-    
-    expect(Pepita.ciudad).to eq Iruya
-    "
-    
-    raise x
-  end
-
   it 'vuela a Iruya' do
     Pepita.volar_hacia! Obera
 
-Pepita.comer_alpiste! 500
-Pepita.volar_hacia! Iruya
-Pepita.comer_alpiste! (Pepita.energia / 2)
+    /*...content...*/
 
     expect(Pepita.ciudad).to eq Iruya
   end
@@ -29,10 +12,7 @@ Pepita.comer_alpiste! (Pepita.energia / 2)
     Pepita.volar_hacia! Obera
     Pepita.energia = 1000
     
-    Pepita.comer_alpiste! 500
-Pepita.volar_hacia! Iruya
-Pepita.comer_alpiste! (Pepita.energia / 2)
-
+    /*...content...*/
     
     expect(Pepita.energia).to eq 55165.0
   end
@@ -41,10 +21,8 @@ Pepita.comer_alpiste! (Pepita.energia / 2)
     Pepita.volar_hacia! Obera
     Pepita.energia = 500
   
-Pepita.comer_alpiste! 500
-Pepita.volar_hacia! Iruya
-Pepita.comer_alpiste! (Pepita.energia / 2)  
-  
+    /*...content...*/
+
     expect(Pepita.energia).to eq 50915.0
   end
 end
