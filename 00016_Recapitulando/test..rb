@@ -1,5 +1,19 @@
 describe 'Pepita' do
 
+
+  it 'fake' do
+    x = "
+    Pepita.volar_hacia! Obera
+
+    #...content...#
+    
+    
+    expect(Pepita.ciudad).to eq Iruya
+    "
+    
+    puts x
+  end
+
   it 'vuela a Iruya' do
     Pepita.volar_hacia! Obera
 
