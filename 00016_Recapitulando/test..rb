@@ -1,4 +1,6 @@
 describe 'Pepita' do
+  before(:each) { Pepita.volar_hacia!(Obera) }
+
   it 'vuela a Iruya' do
     Pepita.ejecutar_solucion!
     expect(Pepita.ciudad).to eq Iruya
