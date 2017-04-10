@@ -1,5 +1,5 @@
 module Pepita
-  def ejecutar_solucion!
+  def self.ejecutar_solucion!
     #...content...#
   end
 end
