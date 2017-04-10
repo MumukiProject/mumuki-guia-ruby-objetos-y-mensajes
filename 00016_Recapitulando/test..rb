@@ -1,6 +1,6 @@
 describe 'Pepita' do
   it 'vuela a Iruya' do
-    Pepita.ejecutar_solucion!
+    # Pepita.ejecutar_solucion!
     expect(Pepita.ciudad).to eq Iruya
   end
   
