@@ -6,7 +6,7 @@ describe 'Pepita' do
     x = "
     Pepita.volar_hacia! Obera
 
-    #...content...#
+    /*...content...*/
     
     
     expect(Pepita.ciudad).to eq Iruya
