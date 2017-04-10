@@ -3,7 +3,7 @@ describe 'Pepita' do
   it 'vuela a Iruya' do
     Pepita.volar_hacia! Obera
 
-    /*...content...*/
+    #...content...#
 
     expect(Pepita.ciudad).to eq Iruya
   end
@@ -12,7 +12,7 @@ describe 'Pepita' do
     Pepita.volar_hacia! Obera
     Pepita.energia = 1000
     
-    /*...content...*/
+    #...content...#
     
     expect(Pepita.energia).to eq 55165.0
   end
@@ -21,7 +21,7 @@ describe 'Pepita' do
     Pepita.volar_hacia! Obera
     Pepita.energia = 500
   
-    /*...content...*/
+    #...content...#
 
     expect(Pepita.energia).to eq 50915.0
   end
