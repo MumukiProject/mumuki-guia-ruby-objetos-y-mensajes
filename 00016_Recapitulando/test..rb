@@ -10,7 +10,7 @@ Pepita.comer_alpiste! (Pepita.energia / 2)
     expect(Pepita.ciudad).to eq Iruya
   end
   
-  it 'termina con X cuando empieza con 1000' do
+  it 'termina con 55165 cuando empieza con 1000' do
     Pepita.volar_hacia! Obera
     Pepita.energia = 1000
     
@@ -19,10 +19,10 @@ Pepita.volar_hacia! Iruya
 Pepita.comer_alpiste! (Pepita.energia / 2)
 
     
-    expect(Pepita.energia).to eq 17395.0
+    expect(Pepita.energia).to eq 55165.0
   end
   
-  it 'termina con X cuando empieza con 500' do
+  it 'termina con 50915 cuando empieza con 500' do
     Pepita.volar_hacia! Obera
     Pepita.energia = 500
   
@@ -30,6 +30,6 @@ Pepita.comer_alpiste! 500
 Pepita.volar_hacia! Iruya
 Pepita.comer_alpiste! (Pepita.energia / 2)  
   
-    expect(Pepita.energia).to eq 17395.0
+    expect(Pepita.energia).to eq 50915.0
   end
 end
