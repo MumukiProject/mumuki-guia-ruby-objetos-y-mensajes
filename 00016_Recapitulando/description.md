@@ -14,8 +14,8 @@ Como vimos, también se pueden escribir como mensajes de palabra clave (aunque n
 
 > Vamos a enviar algunos mensajes para terminar de cerrar la idea. Te toca escribir un programa que haga que Pepita:
 >  
-> 1. Coma 100 gramos de alpiste. :rice:
+> 1. Coma 90 gramos de alpiste. :rice:
 > 1. Vuele a Iruya. :earth_americas:
-> 1. Finalmente, coma tanto alpiste como el 10% energía que le haya quedado.  :rice:
+> 1. Finalmente, coma tanto alpiste como el 10% de la energía que le haya quedado.  :rice:
 > 
 > Este programa tiene que andar sin importar con cuanta energía arranque `Pepita`.

@@ -7,19 +7,19 @@ describe 'Pepita' do
     expect(Pepita.ciudad).to eq Iruya
   end
   
-  it 'termina con 475 de energía cuando empieza con 1000' do
+  it 'termina con 850 de energía cuando empieza con 1000' do
     Pepita.energia = 1000
     
     #...content...#
     
-    expect(Pepita.energia).to eq 475.0
+    expect(Pepita.energia).to eq 850
   end
   
-  it 'termina con 50915 cuando empieza con 700' do
+  it 'termina con 100 cuando empieza con 700' do
     Pepita.energia = 700
   
     #...content...#
 
-    expect(Pepita.energia).to eq 50915.0
+    expect(Pepita.energia).to eq 100
   end
 end
