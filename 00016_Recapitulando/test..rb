@@ -1,25 +1,22 @@
 describe 'Pepita' do
-
+  before(:each) { Pepita.volar_hacia! Obera }
+  
   it 'vuela a Iruya' do
-    Pepita.volar_hacia! Obera
-
     #...content...#
 
     expect(Pepita.ciudad).to eq Iruya
   end
   
-  it 'termina con 55165 cuando empieza con 1000' do
-    Pepita.volar_hacia! Obera
+  it 'termina con 4165 de energía cuando empieza con 1000' do
     Pepita.energia = 1000
     
     #...content...#
     
-    expect(Pepita.energia).to eq 55165.0
+    expect(Pepita.energia).to eq 4165
   end
   
-  it 'termina con 50915 cuando empieza con 500' do
-    Pepita.volar_hacia! Obera
-    Pepita.energia = 500
+  it 'termina con 50915 cuando empieza con 600' do
+    Pepita.energia = 600
   
     #...content...#
 
