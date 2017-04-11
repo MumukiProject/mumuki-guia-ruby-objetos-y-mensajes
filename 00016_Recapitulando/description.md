@@ -16,6 +16,6 @@ Como vimos, también se pueden escribir como mensajes de palabra clave (aunque n
 >  
 > 1. Coma 100 gramos de alpiste. :rice:
 > 1. Vuele a Iruya. :earth_americas:
-> 1. Finalmente, coma tanto alpiste como la mitad de la energía que le haya quedado.  :rice:
+> 1. Finalmente, coma tanto alpiste como el 10% energía que le haya quedado.  :rice:
 > 
 > Este programa tiene que andar sin importar con cuanta energía arranque `Pepita`.
