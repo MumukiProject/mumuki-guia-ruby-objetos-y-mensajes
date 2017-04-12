@@ -1,10 +1,4 @@
-#...extra...#
-
 describe 'Interfaz de' do
-  before(:each) do
-    #...content...#
-  end
-  
   it 'Mercedes' do
     expect(interfaz_mercedes).to eq ['cantar!']
   end
