@@ -1,5 +1,5 @@
 describe 'Pepita' do
-  before(:each) { Pepita.volar_hacia! Obera }
+  before(:each) { Pepita.volar_hacia!(Obera) }
   
   it 'vuela a Iruya' do
     #...content...#
