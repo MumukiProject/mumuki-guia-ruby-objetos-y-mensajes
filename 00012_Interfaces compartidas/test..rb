@@ -1,10 +1,4 @@
-#...extra...#
-
 describe 'Interfaz compartida entre' do
-  before(:each) do
-    #...content...#
-  end
-  
   it 'Mercedes y Norita' do
     expect(interfaz_compartida_entre_mercedes_y_norita).to eq ['cantar!']
   end
