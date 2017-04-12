@@ -17,13 +17,13 @@ module Obera
 end
 
 module Mercedes
-  def self.cantar
+  def self.cantar!
     "♪ una voz antigua de viento y de sal ♫"
   end
 end
 
 module Norita
-  def self.cantar
+  def self.cantar!
     'priiiip priiiip'
   end
   
@@ -50,7 +50,7 @@ module Pepita
     @ciudad 
   end
   
-  def self.cantar
+  def self.cantar!
     'pri pri pri'
   end
   
