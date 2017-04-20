@@ -1,6 +1,6 @@
 En un mundo de objetos, todo lo que tenemos son **objetos** y **mensajes**. A estos últimos, podemos distinguirlos según la forma en que se escriben:
 
-ム **Mensajes de palabra clave**. Su nombre está compuesto por o varias palabras, puede terminar con un signo de exclamación `!` o de pregunta `?`, y se envía mediante un punto. Además,
+ム **Mensajes de palabra clave**. Su nombre está compuesto por una o varias palabras, puede terminar con un signo de exclamación `!` o de pregunta `?`, y se envía mediante un punto. Además,
 
 * pueden no tomar argumentos, como `Rayuela.anio_de_edicion`;
 * o pueden tomar uno o más argumentos, separados por coma: `SanMartin.cruzar!(LosAndes, Mula)`.
