@@ -15,4 +15,5 @@ Y de hecho, ¡también podemos escribirlo como un envío de mensajes convenciona
 ```ruby
 ム 5.+(6)
 ム 3.<(27)
-ム Pepita.==(Norita)```
+ム Pepita.==(Norita)
+```
