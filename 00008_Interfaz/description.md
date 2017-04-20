@@ -6,17 +6,19 @@ Como vimos, un objeto puede entender múltiples mensajes; a este conjunto de men
 * `volar_en_circulos!`: hace que vuele en circulos.
 
 <!--
+@startuml
 interface Pepita {
-   int energia
-   void cantar
-   void comer_lombriz
-   void volar_en_circulos
+   energia
+   cantar!
+   comer_lombriz!
+   volar_en_circulos!
 }
+@enduml
 -->
 
 Lo cual también se puede graficar de la siguiente forma:
 
-![interfaz](http://www.plantuml.com/plantuml/png/HSZ13O0m20NGUwTW93Te4D6GL31Vx47ZxiQB7jypJyNCeZJePibq5I8oJr9NBCOlUzX4mfwCdx4gQejrX9tVzcYCgbx584UBlTmF)
+![interfaz](http://www.plantuml.com/plantuml/png/7SZ12O0m30NGUwT8DtA34aEKG9kKR_MWkBlOs-EP3yN6ehHejy7q929IL-p6FuLzCF9aD4MfqLROFUUAoYZgHGnorZXoUZy0)
 
-> ¡Un momento! ¿Qué significa `int`? ¿Y `void`? 
-> Enviá nuevamente esos mensajes. Y fijate qué devuelve cada uno (lo que está a la derecha del `=>`).
+> ¡Un momento! ¿Por qué algunos mensajes terminan en `!` y otros no? 
+> Enviá nuevamente esos mensajes. Fijate qué devuelve cada uno (lo que está a la derecha del `=>`) y tratá de descubrir el patrón.
