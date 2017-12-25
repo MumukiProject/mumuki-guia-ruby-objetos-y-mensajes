@@ -8,7 +8,7 @@ Norita.cantar!
 => "priiiip priiiip"
 
 Mercedes.cantar!
-=> "...una voz antigua de viento y de sal..."
+=> "♪ una voz antigua de viento y de sal ♫"
 ```
 
 Esto significa que dos o más objetos pueden entender un mismo mensaje, pero pueden **comportarse** de formas diferentes. Ya hablaremos más de esto en próximas lecciones.
