@@ -8,7 +8,7 @@ En un mundo de objetos, todo lo que tenemos son **objetos** y **mensajes**. A es
 ム **Operadores**. Son todos aquellos cuyo "nombre" se compone de uno o más símbolos, y se envían simplemente escribiendo dichos símbolos. En cuanto a los argumentos,
 
 * pueden no tomar ninguno, como la negación `!true`;
-* o pueden tomar uno (y solo uno), como `Orson == Gardfield` o `energia + 80`.
+* o pueden tomar uno (y solo uno), como `Orson == Garfield` o `energia + 80`.
 
 Como vimos, también se pueden escribir como mensajes de palabra clave (aunque no parece buena idea escribir `1.==(2)` en vez de `1 == 2` :stuck_out_tongue:).
 
