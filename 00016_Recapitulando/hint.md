@@ -2,6 +2,5 @@ Cualquier envío de mensajes que devuelva algo es una expresión válida, y pued
 
 ```ruby
 ム Fitito.cargar_nafta!(120 * 4)
-ム Fitito.cargar_nafta!(Fitito.capacidad_tanque_nafta - Fitito.nafta_disponible)
-ム Fitito.cargar_nafta!(Monedero.dinero_total / NaftaSuper.precio_por_litro)
+ム Fitito.cargar_nafta!(Fitito.capacidad_tanque_nafta - Fitito.nafta_disponible) #Carga al Fitito lo necesario para completar su tanque. Para ello le pregunta al Fitito su capacidad y la nafta que tiene en este momento. 
 ```
