@@ -4,4 +4,4 @@ El paradigma de programación con objetos o programación _orientada a_ objetos 
 
 En este video te contamos qué son esos famosos objetos y cómo interactúan entre sí.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wHKZ3wtrB4E?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wHKZ3wtrB4E?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
