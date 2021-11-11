@@ -1,6 +1,6 @@
 Para empezar en este mundo, conozcamos a `Pepita`, una [golondrina](http://es.wikipedia.org/wiki/Hirundo_rustica).
 
-<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/1024px-Landsvale.jpg" />
+<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/1024px-Landsvale.jpg" alt=""/>
 
 `Pepita`, además de ser un ave que come y vuela (como todo pájaro), es un objeto, que vive en _el mundo de los objetos_, al cual conocemos como **ambiente**.
 
